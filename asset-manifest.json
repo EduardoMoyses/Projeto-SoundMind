@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/projeto-soundmind/static/css/main.d417c09f.css",
-    "main.js": "/projeto-soundmind/static/js/main.7749de3d.js",
+    "main.js": "/projeto-soundmind/static/js/main.6d60e27a.js",
     "static/media/fundo-home.png": "/projeto-soundmind/static/media/fundo-home.02561734e103a755b315.png",
     "static/media/Super Frosting.ttf": "/projeto-soundmind/static/media/Super Frosting.caca9ce8eef661c233ae.ttf",
     "index.html": "/projeto-soundmind/index.html",
     "main.d417c09f.css.map": "/projeto-soundmind/static/css/main.d417c09f.css.map",
-    "main.7749de3d.js.map": "/projeto-soundmind/static/js/main.7749de3d.js.map"
+    "main.6d60e27a.js.map": "/projeto-soundmind/static/js/main.6d60e27a.js.map"
   },
   "entrypoints": [
     "static/css/main.d417c09f.css",
-    "static/js/main.7749de3d.js"
+    "static/js/main.6d60e27a.js"
   ]
 }
